@@ -1,2 +1,2 @@
 # AIP-Homework
-Repository for all AIP homework : )
+Repository for all AIP homework :)
